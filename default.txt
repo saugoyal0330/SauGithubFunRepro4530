@@ -1,2 +1,4 @@
 name - saurabh
 email- test@test.com
+city - gurgaon
+pincode- 120021
